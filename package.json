@@ -1,0 +1,17 @@
+{
+  "name": "redux-start-ts-hw-mod-32",
+  "version": "1.0.0",
+  "description": "HW-redux+ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batan Andrei",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
